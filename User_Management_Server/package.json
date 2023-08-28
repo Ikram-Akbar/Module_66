@@ -4,8 +4,14 @@
   "description": "This is user management server",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "node": "node index.js",
+    "start-dev": "nodemon index.js"
   },
   "author": "Ikram_Akbar",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
 }
