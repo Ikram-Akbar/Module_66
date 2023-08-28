@@ -1,0 +1,11 @@
+{
+  "name": "user_management_server",
+  "version": "1.0.0",
+  "description": "This is user management server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ikram_Akbar",
+  "license": "ISC"
+}
